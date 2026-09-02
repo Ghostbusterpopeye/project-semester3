@@ -1,8 +1,8 @@
 void main () {
 
-  bool finish = false ;
-  print (finish);
+  bool isLampOn = false ;
+  print (isLampOn);
 
-  finish = true ;
-  print (finish);
+  isLampOn = true ;
+  print (isLampOn);
 }
